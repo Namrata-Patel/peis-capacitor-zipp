@@ -1,11 +1,11 @@
-# @peis/ziphelp
+# peis-ziphelp
 
 Zip operations
 
 ## Install
 
 ```bash
-npm install @peis/ziphelp
+npm install peis-ziphelp
 npx cap sync
 ```
 
